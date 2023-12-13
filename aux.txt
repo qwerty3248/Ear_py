@@ -5,5 +5,5 @@ dependencias de windows:
 pip install gtts googletrans==4.0.0 pygame
 
 
-para crear el ejecutable 
+para crear el ejecutable en windows
 python setup.py build
