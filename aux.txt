@@ -6,4 +6,4 @@ pip install gtts googletrans==4.0.0 pygame
 
 
 para crear el ejecutable 
-pyinstaller --onefile --add-data "ruta/a/tu/imagen.png;." tu_script.py
+python setup.py build
